@@ -7,4 +7,3 @@ D:\Test\StockWidgetApplication\StockWidgetApplication\bin\StockWidgetApplication
 D:\Test\StockWidgetApplication\StockWidgetApplication\bin\StockWidgetApplication.pdb
 D:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.dll
 D:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.pdb
-D:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.csprojResolveAssemblyReference.cache
