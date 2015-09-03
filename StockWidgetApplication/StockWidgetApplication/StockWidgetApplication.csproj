@@ -64,7 +64,8 @@
     <Content Include="CSS\StockStyle.css" />
     <Content Include="HTML\StockWidgetView.html" />
     <Content Include="JavaScript\Bootstrap.js" />
-    <Content Include="JavaScript\StockWidget.js" />
+    <Content Include="JavaScript\CreateWidget.js" />
+    <Content Include="JavaScript\ShowStockData.js" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
