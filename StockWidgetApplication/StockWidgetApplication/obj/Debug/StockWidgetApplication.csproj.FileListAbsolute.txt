@@ -1,0 +1,5 @@
+d:\Test\StockWidgetApplication\StockWidgetApplication\bin\StockWidgetApplication.dll
+d:\Test\StockWidgetApplication\StockWidgetApplication\bin\StockWidgetApplication.pdb
+d:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.csprojResolveAssemblyReference.cache
+d:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.dll
+d:\Test\StockWidgetApplication\StockWidgetApplication\obj\Debug\StockWidgetApplication.pdb
