@@ -1,0 +1,13 @@
+DECLARE @index INT=0;
+
+while @index<(COUNT(*)from Employees)
+
+BEGIN
+select ROUND((Expenses[@index+1]/Earnings[@index+1]),0)/ROUND((Expenses[@index]/Earnings[@index]),0)
+
+from
+(select Employees.JoiningDate as DateOfJoining,DATEPART(qq,Employees.JoiningDate)as Quarter,(sum(Employees.salary) group by DATEPART(qq,Employees.JoiningDate),Employees.JoiningDate)as Expenses ,(sum(Orders.OrderAmount) group by DATEPART(qq,Orders.OrderDate),Orders.OrderDate)as Earningsfrom EmployeesInner Join Orderson Employees.JoiningDate=Orders.OrderDateorder by Employees.JoiningDate)
+
+SET @index+=1;
+
+END;

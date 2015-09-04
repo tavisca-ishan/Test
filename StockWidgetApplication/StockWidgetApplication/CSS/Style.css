@@ -1,0 +1,16 @@
+﻿h3.widgetName {
+    color:black;
+}
+p.exchangeValue {
+    color:green;
+}
+p.rangeValue {
+    color:red;
+}
+#StockWidget {
+    align-content:center;
+    height:400px;
+    width:200px;
+    background-color: yellow;
+    
+}
